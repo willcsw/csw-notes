@@ -1,14 +1,14 @@
 <div align="center">
 <h1>csw-notes</h1>
 
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
+[![Auth](https://img.shields.io/badge/Auth-willcsw-ff69b4)](https://github.com/willcsw)
 [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/willcsw/csw-notes)
-[![GitHub Issues](https://img.shields.io/github/issueswillcsw/csw-notes.svg)](https://github.com/willcsw/csw-notes/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-prwillcsw/csw-notes)](https://github.com/willcsw/csw-notes/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/starswillcsw/csw-notes)](https://github.com/willcsw/csw-notes/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/willcsw/csw-notes.svg)](https://github.com/willcsw/csw-notes/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/willcsw/csw-notes)](https://github.com/willcsw/csw-notes/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/star/swillcsw/csw-notes)](https://github.com/willcsw/csw-notes/stargazers)
 [![GitHub license](https://img.shields.io/github/license/willcsw/csw-notes)](https://github.com/willcsw/csw-notes/blob/main/LICENSE)
 [![HitCount](https://views.whatilearened.today/views/github/willcsw/csw-notes.svg)](https://github.com/willcsw/csw-notes)
-[![website eryajf.github.io/csw-notes](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/csw-notes.svg)](https://eryajf.github.io/csw-notes/)
+[![website willcsw.github.io/csw-notes](https://img.shields.io/website-up-down-green-red/http/willcsw.github.io/csw-notes.svg)](https://willcsw.github.io/csw-notes/)
 
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
